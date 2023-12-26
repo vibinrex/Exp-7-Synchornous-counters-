@@ -161,8 +161,12 @@ endmodule
 
 ## UP COUNTER 
 
+![up counter truth table](https://github.com/vibinrex/Exp-7-Synchornous-counters-/assets/152167280/06db4583-caaf-40c4-af3f-a2e467dfc5d3)
+
 
 ## DOWN COUNTER 
+
+![down councter truth table](https://github.com/vibinrex/Exp-7-Synchornous-counters-/assets/152167280/a1fca0fc-2032-454f-8073-988261275297)
 
 
 
