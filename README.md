@@ -1,6 +1,6 @@
 ```
-name:A.vibin rex
-Reg no:23012635
+name:Kamsa Safi H
+Reg no:212223050025
 ```
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
